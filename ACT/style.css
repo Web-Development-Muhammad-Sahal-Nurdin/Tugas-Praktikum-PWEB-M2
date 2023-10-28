@@ -1,0 +1,19 @@
+/** @format */
+
+.inputField {
+  padding: 8px;
+  border-radius: 8px;
+  display: block;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.btnSubmit {
+  padding: 8px;
+  border-radius: 8px;
+  background: linear-gradient(left to right);
+}
+
+a {
+  text-decoration: none;
+}
